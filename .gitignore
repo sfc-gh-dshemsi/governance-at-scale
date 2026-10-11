@@ -1,0 +1,15 @@
+.DS_Store
+*.swp
+.env
+.env.*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Keep authoring material out of the attendee repository.
+.webinar-build/
+talk-track/
+DEMO_REVIEW_*.md
+review-coverage-*.json
+HOL_SUBMISSION.md
+hol_hub_insert.sql
